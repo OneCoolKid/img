@@ -1,2 +1,2 @@
-# place_img
+# img
 图片仓库
